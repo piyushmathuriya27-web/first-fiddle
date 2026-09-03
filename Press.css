@@ -1,0 +1,94 @@
+.ccccc {
+    background-image: url(https://pn-paul.netlify.app/image/press-new-1.jpg);
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.mb-3 {
+    margin-bottom: 1rem !important;
+}
+
+.mt-4 {
+    margin-top: 1.5rem !important;
+}
+
+.ms-2 {
+    margin-left: .5rem !important;
+}
+
+.go {
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+
+.read {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-weight: lighter;
+}
+
+footer {
+    background: #111215;
+    padding: 50px;
+    color: #fff;
+}
+
+footer .img123 {
+    margin-top: 30px;
+    width: 50%;
+}
+
+footer h2 {
+    font-family: "prague";
+    font-size: 2 rem;
+    line-height: 50px;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+footer p {
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+
+.aaa {
+
+
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+    font-size: 20px;
+}
+i {
+    color: orange;
+    margin: 0 2px;
+    
+}

@@ -1,0 +1,147 @@
+.a {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.image1234 {
+    width: 80%;
+}
+
+.c {
+    background: url(https://pn-paul.netlify.app/image/img%20background.jpg);
+    width: 100%;
+    height: 450px;
+    color: white;
+    margin-top: 30px;
+}
+
+.aa {
+    margin-top: 80px;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-size: 2.5rem;
+
+
+}
+
+.ex {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.mt-5 {
+    margin-top: 3rem !important;
+}
+
+.cc {
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    height: 450px;
+    color: white;
+    margin-top: 30px;
+    /* margin-bottom: 20px; */
+
+}
+
+.p {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+footer {
+    background: #111215;
+    padding: 50px;
+    color: #fff;
+}
+
+footer .img123 {
+    margin-top: 30px;
+    width: 50%;
+}
+
+footer h2 {
+    font-family: "prague";
+    font-size: 2 rem;
+    line-height: 50px;
+    letter-spacing: 3px;
+    color: #fff;
+}
+
+footer p {
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 1px;
+}
+
+.aaa {
+
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+
+
+}
+i {
+    color: orange;
+    margin: 0 2px;
+    
+}
+.ss{
+    margin-bottom: 25px;
+
+}
+
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-family: 200;
+    font-size: 15px;
+}
+
+.moblogo {
+    display: none;
+}
+
+@media(max-width:768px) {
+    .weblogo {
+        display: none;
+    }
+
+    .moblogo {
+        display: block;
+    }
+
+    .navbar {
+        background: orange !important;
+    }
+}
