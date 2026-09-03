@@ -160,65 +160,7 @@ footer p {
     letter-spacing: 3px;
     font-size: 20px;
 }
-@media (max-width: 767px) {
 
-    .ccc {
-        height: 400px;
-    }
-
-    .ccc h2 {
-        font-size: 35px !important;
-        margin-top: 120px !important;
-    }
-
-}
-
-@media (max-width: 767px) {
-
-    .navbar-nav {
-        background: #000;
-        padding: 10px 0;
-    }
-
-    .navbar-nav li {
-        padding: 0;
-    }
-
-    .navbar-nav li a {
-        font-size: 14px;
-        padding: 8px;
-    }
-
-}
-
-@media (max-width: 767px) {
-
-    .col-md-4,
-    .col-md-5 {
-        width: 100%;
-    }
-
-    .mt-4 {
-        margin-left: 0 !important;
-    }
-
-    .ss {
-        margin-right: 0;
-        padding: 15px;
-        line-height: 28px;
-        text-align: justify;
-    }
-
-    .rr {
-        margin-left: 0;
-        padding: 15px;
-        line-height: 28px;
-    }
-
-    .b {
-        line-height: 28px;
-        padding: 15px;
-        text-align: justify;
     }
 
 }
