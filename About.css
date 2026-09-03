@@ -190,3 +190,35 @@ footer p {
     }
 
 }
+
+@media (max-width: 767px) {
+
+    .col-md-4,
+    .col-md-5 {
+        width: 100%;
+    }
+
+    .mt-4 {
+        margin-left: 0 !important;
+    }
+
+    .ss {
+        margin-right: 0;
+        padding: 15px;
+        line-height: 28px;
+        text-align: justify;
+    }
+
+    .rr {
+        margin-left: 0;
+        padding: 15px;
+        line-height: 28px;
+    }
+
+    .b {
+        line-height: 28px;
+        padding: 15px;
+        text-align: justify;
+    }
+
+}
