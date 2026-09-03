@@ -160,3 +160,15 @@ footer p {
     letter-spacing: 3px;
     font-size: 20px;
 }
+@media (max-width: 767px) {
+
+    .ccc {
+        height: 400px;
+    }
+
+    .ccc h2 {
+        font-size: 35px !important;
+        margin-top: 120px !important;
+    }
+
+}
