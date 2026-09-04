@@ -31,10 +31,6 @@
     font-size: 1.2cm;
 }
 
-.container {
-    max-width: 1320px;
-}
-
 .b {
     letter-spacing: 1px;
     word-spacing: 2px;
@@ -67,11 +63,6 @@
     margin-top: 1rem !important;
 }
 
-.col-md-5 {
-    flex: 0 0 auto;
-    width: 41.66666667%;
-}
-
 .ms-1 {
     margin-left: .25rem !important;
 }
@@ -80,10 +71,6 @@
     margin-bottom: 3rem !important;
 }
 
-.col-md-6 {
-    flex: 0 0 auto;
-    width: 50%;
-}
 .ms-4 {
     margin-left: 1.5rem !important;
 }
