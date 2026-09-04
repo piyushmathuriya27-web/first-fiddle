@@ -98,3 +98,12 @@ footer p {
     font-family: 'prague';
     letter-spacing: 3px;
 }
+
+.navbar-toggler {
+    position: relative;
+    z-index: 9999;
+}
+
+.navbar-collapse {
+    background: #000;
+}
