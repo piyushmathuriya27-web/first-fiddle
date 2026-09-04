@@ -92,3 +92,10 @@ i {
     margin: 0 2px;
     
 }
+.navbar-toggler {
+    border: 1px solid white !important;
+}
+
+.navbar-toggler-icon {
+    filter: brightness(0) invert(1);
+}
